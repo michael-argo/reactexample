@@ -23,7 +23,7 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://github.com/michael-argo/react-challenge"
             target="_blank"
             rel="noopener noreferrer"
           >
